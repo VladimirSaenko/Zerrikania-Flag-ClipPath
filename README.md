@@ -1,6 +1,6 @@
 # Zerrikania-Flag-ClipPath
 
-## Флаг страны Зеррикания из мира Ведьмака
+## Флаг страны Зеррикания из мира Ведьмака | Flag of country Zerrikania from Witcher world
 
 <!-- ![flag](https://user-images.githubusercontent.com/56477695/154171443-0c74a13e-234e-4ae2-af8e-111d7f310707.png) -->
 

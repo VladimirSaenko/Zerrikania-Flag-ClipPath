@@ -75,6 +75,8 @@ section .side#side2 h3 {
     }
 
     body {
-        background-position: left;
+        background: url(images/bg2.jpg);
+        background-size: cover;
+        background-attachment: fixed;
     }
 }

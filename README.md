@@ -2,8 +2,7 @@
 
 ## Флаг страны Зеррикания из мира Ведьмака | Flag of country Zerrikania from Witcher world
 
-<!-- ![flag](https://user-images.githubusercontent.com/56477695/154171443-0c74a13e-234e-4ae2-af8e-111d7f310707.png) -->
-
+![bg](https://user-images.githubusercontent.com/56477695/165142775-9e67e52a-c420-4993-9d68-1fa4bab308da.jpg)
 ![zerrikandragon](https://user-images.githubusercontent.com/56477695/154171500-677f074b-4570-4d78-b30f-60a7b6f16d91.svg)
 
 ## About Zerrikania

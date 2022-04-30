@@ -7,6 +7,6 @@
 
 ## About Zerrikania
 
-### Страна, расположеная в юго-восточной части Континента, за Огненными горами и пустыней Корат. Её название происходит от легендарного золотого дракона Зеррикантермента. Характерен жаркий климат, экзотические животные и драконы.
+### Страна, расположеная в юго-восточной части Континента, за Огненными горами и пустыней Корат. Её название происходит от легендарного золотого дракона Зеррикантермента. Характерна жаркий климат, экзотические животные и драконы.
 
 ### A country located in the southeastern part of the Continent, beyond the Fiery Mountains and the Korat Desert. Its name comes from the legendary golden dragon Zerricanterment. Characterized by a hot climate, exotic animals and dragons.
